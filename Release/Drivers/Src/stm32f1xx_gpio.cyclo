@@ -1,0 +1,10 @@
+stm32f1xx_gpio.c:11:6:GPIOx_ClkControl	13
+stm32f1xx_gpio.c:62:6:GPIOx_Init	19
+stm32f1xx_gpio.c:171:6:GPIOx_DeInit	5
+stm32f1xx_gpio.c:201:9:GPIOx_PinRead	1
+stm32f1xx_gpio.c:208:10:GPIOx_PortRead	1
+stm32f1xx_gpio.c:215:6:GPIOx_PinWrite	3
+stm32f1xx_gpio.c:227:6:GPIOx_PortWrite	1
+stm32f1xx_gpio.c:232:6:GPIOx_PinToggle	1
+stm32f1xx_gpio.c:238:9:GPIOx_IsEXTI	1
+stm32f1xx_gpio.c:243:6:GPIOx_IRQConfig	1

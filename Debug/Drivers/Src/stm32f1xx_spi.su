@@ -1,0 +1,11 @@
+../Drivers/Src/stm32f1xx_spi.c:12:6:SPIx_ClkControl	16	static
+../Drivers/Src/stm32f1xx_spi.c:49:6:SPIx_Init	40	static
+../Drivers/Src/stm32f1xx_spi.c:114:6:SPIx_DeInit	24	static
+../Drivers/Src/stm32f1xx_spi.c:137:9:SPIx_GetFlag	16	static
+../Drivers/Src/stm32f1xx_spi.c:146:6:SPIx_Start	16	static
+../Drivers/Src/stm32f1xx_spi.c:151:6:SPIx_Stop	16	static
+../Drivers/Src/stm32f1xx_spi.c:156:6:SPIx_Send	32	static
+../Drivers/Src/stm32f1xx_spi.c:186:6:SPIx_Receive	40	static
+../Drivers/Src/stm32f1xx_spi.c:208:6:SPIx_SendIT	24	static
+../Drivers/Src/stm32f1xx_spi.c:218:6:SPIx_IRQControl	24	static
+../Drivers/Src/stm32f1xx_spi.c:250:6:SPIx_IRQSetPriority	24	static

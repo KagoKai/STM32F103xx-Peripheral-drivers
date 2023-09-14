@@ -1,0 +1,12 @@
+../Drivers/Src/stm32f1xx_gpio.c:12:6:GPIOx_ClkControl	16	static
+../Drivers/Src/stm32f1xx_gpio.c:65:6:GPIOx_Init	48	static
+../Drivers/Src/stm32f1xx_gpio.c:175:6:GPIOx_DeInit	24	static
+../Drivers/Src/stm32f1xx_gpio.c:207:9:GPIOx_PinRead	24	static
+../Drivers/Src/stm32f1xx_gpio.c:214:10:GPIOx_PortRead	24	static
+../Drivers/Src/stm32f1xx_gpio.c:221:6:GPIOx_PinWrite	16	static
+../Drivers/Src/stm32f1xx_gpio.c:233:6:GPIOx_PortWrite	16	static
+../Drivers/Src/stm32f1xx_gpio.c:238:6:GPIOx_PinToggle	16	static
+../Drivers/Src/stm32f1xx_gpio.c:246:9:GPIOx_IsEXTI	16	static
+../Drivers/Src/stm32f1xx_gpio.c:251:6:GPIOx_IRQControl	24	static
+../Drivers/Src/stm32f1xx_gpio.c:273:6:GPIOx_IRQSetPriority	24	static
+../Drivers/Src/stm32f1xx_gpio.c:283:6:GPIOx_IRQHandler	16	static

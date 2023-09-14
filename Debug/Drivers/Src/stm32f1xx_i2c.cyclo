@@ -1,0 +1,4 @@
+../Drivers/Src/stm32f1xx_i2c.c:13:6:I2Cx_ClkControl	7
+../Drivers/Src/stm32f1xx_i2c.c:59:10:RCC_GetPCLK1	6
+../Drivers/Src/stm32f1xx_i2c.c:103:6:I2Cx_Init	3
+../Drivers/Src/stm32f1xx_i2c.c:123:6:I2Cx_DeInit	1

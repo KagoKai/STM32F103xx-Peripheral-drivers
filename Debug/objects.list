@@ -1,0 +1,7 @@
+"./Drivers/Src/stm32f1xx_gpio.o"
+"./Drivers/Src/stm32f1xx_i2c.o"
+"./Drivers/Src/stm32f1xx_spi.o"
+"./Src/SPI_MasterReceive.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"

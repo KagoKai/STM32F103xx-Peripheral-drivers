@@ -1,0 +1,4 @@
+../Src/SPI_MasterReceive.c:52:5:main	16	static
+../Src/SPI_MasterReceive.c:100:6:EXTI1_IRQHandler	8	static
+../Src/SPI_MasterReceive.c:107:6:GPIO_Setup	24	static
+../Src/SPI_MasterReceive.c:143:6:SPI_Setup	16	static

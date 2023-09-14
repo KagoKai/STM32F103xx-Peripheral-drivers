@@ -1,0 +1,8 @@
+stm32f1xx_spi.c:10:6:SPIx_ClkControl	9
+stm32f1xx_spi.c:44:6:SPIx_Init	7
+stm32f1xx_spi.c:106:6:SPIx_DeInit	3
+stm32f1xx_spi.c:129:6:SPIx_Start	1
+stm32f1xx_spi.c:134:6:SPIx_Stop	1
+stm32f1xx_spi.c:139:9:SPIx_GetFlag	1
+stm32f1xx_spi.c:145:6:SPIx_Send	4
+stm32f1xx_spi.c:170:6:SPIx_Receive	1

@@ -1,0 +1,4 @@
+../Drivers/Src/stm32f1xx_i2c.c:13:6:I2Cx_ClkControl	16	static
+../Drivers/Src/stm32f1xx_i2c.c:59:10:RCC_GetPCLK1	24	static
+../Drivers/Src/stm32f1xx_i2c.c:103:6:I2Cx_Init	32	static
+../Drivers/Src/stm32f1xx_i2c.c:123:6:I2Cx_DeInit	16	static
